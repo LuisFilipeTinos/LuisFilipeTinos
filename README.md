@@ -4,7 +4,7 @@
 
 :video_game: I am a Digital Games Technologist, graduated in Sacred Heart University Center (UNISAGRADO).</br></br>
 
-:mag_right: I am a master's student in the area of ​​Rehabilitation Sciences with a focus on Technology for Speech Rehabilitation (Hospital for Rehabilitation of Craniofacial Anomalies of University of são Paulo - HRAC-USP).</br></br>
+:mag_right: I have a master's degree in the area of ​​Rehabilitation Sciences with a focus on Technology for Speech Rehabilitation (Hospital for Rehabilitation of Craniofacial Anomalies of University of são Paulo - HRAC-USP).</br></br>
 
 :white_check_mark: I am also a Collaborator Professor in the "Software Factory" extension project at Sacred Heart University Center (UNISAGRADO).</br></br>
 
