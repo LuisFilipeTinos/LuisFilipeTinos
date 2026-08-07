@@ -6,7 +6,7 @@
 
 :mag_right: I have a master's degree in the area of ​​Rehabilitation Sciences with a focus on Technology for Speech Rehabilitation (Hospital for Rehabilitation of Craniofacial Anomalies of University of são Paulo - HRAC-USP).</br></br>
 
-:white_check_mark: I am also a Collaborator Professor in the "Software Factory" extension project at Sacred Heart University Center (UNISAGRADO).</br></br>
+:white_check_mark: I am also a Professor at Sacred Heart University Center (UNISAGRADO) and State Technical School 'Rodrigues de Abreu' (ETEC).</br></br>
 
 :purple_heart: I am passionate about software development, especially game development with Unity and C# and scientific research involving game development and application, machine learning and deep learning. </br></br>
 
